@@ -1,5 +1,5 @@
 {
-    "name": "hiqdev/minii-caching",
+    "name": "minii/caching",
     "type": "library",
     "description": "minii Caching",
     "keywords": [
@@ -10,9 +10,9 @@
     "license": "BSD-3-Clause",
     "support": {
         "email": "support@hiqdev.com",
-        "source": "https://github.com/hiqdev/minii-console",
-        "issues": "https://github.com/hiqdev/minii-console/issues",
-        "wiki": "https://github.com/hiqdev/minii-console/wiki",
+        "source": "https://github.com/hiqdev/minii-caching",
+        "issues": "https://github.com/hiqdev/minii-caching/issues",
+        "wiki": "https://github.com/hiqdev/minii-caching/wiki",
         "forum": "http://forum.hiqdev.com/"
     },
     "authors": [
@@ -43,8 +43,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "yii\\caching\\": "src",
-            "yii\\console\\": "src"
+            "yii\\caching\\": "src"
         }
     }
 }
