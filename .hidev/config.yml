@@ -1,0 +1,13 @@
+package:
+    type:           library
+    name:           minii-caching
+    namespace:      yii\caching
+    title:          minii Caching
+    keywords:       minii, caching
+
+composer.json:
+    name:           minii/caching
+
+require:
+    hiqdev/hidev-hiqdev: "*"
+    hiqdev/hidev-php:    "*"
