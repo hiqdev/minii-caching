@@ -1,8 +1,8 @@
 minii Caching
 =============
 
-[![Latest Stable Version](https://poser.pugx.org/hiqdev/minii-caching/v/stable)](//packagist.org/packages/hiqdev/minii-caching)
-[![Total Downloads](https://poser.pugx.org/hiqdev/minii-caching/downloads)](//packagist.org/packages/hiqdev/minii-caching)
+[![Latest Stable Version](https://poser.pugx.org/minii/caching/v/stable)](//packagist.org/packages/minii/caching)
+[![Total Downloads](https://poser.pugx.org/minii/caching/downloads)](//packagist.org/packages/minii/caching)
 [![Build Status](https://img.shields.io/travis/hiqdev/minii-caching.svg)](http://travis-ci.org/hiqdev/minii-caching)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:minii-caching/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:minii-caching/dev-master)
 
