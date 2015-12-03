@@ -6,6 +6,9 @@ minii Caching
 [![Build Status](https://img.shields.io/travis/hiqdev/minii-caching.svg)](http://travis-ci.org/hiqdev/minii-caching)
 [![Dependency Status](https://www.versioneye.com/php/hiqdev:minii-caching/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:minii-caching/dev-master)
 
+[minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
+This package provides caching.
+
 ## Installation
 
 The preferred way to install this library is through [composer](http://getcomposer.org/download/).
