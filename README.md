@@ -4,6 +4,10 @@ minii Caching
 [![Latest Stable Version](https://poser.pugx.org/minii/caching/v/stable)](https://packagist.org/packages/minii/caching)
 [![Total Downloads](https://poser.pugx.org/minii/caching/downloads)](https://packagist.org/packages/minii/caching)
 [![Build Status](https://img.shields.io/travis/hiqdev/minii-caching.svg)](https://travis-ci.org/hiqdev/minii-caching)
+[![Dependency Status](https://www.versioneye.com/php/hiqdev:minii-caching/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:minii-caching/dev-master)
+
+[minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
+This package provides caching.
 
 ## Installation
 
