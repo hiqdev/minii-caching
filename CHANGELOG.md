@@ -1,5 +1,5 @@
-hiqdev/minii-caching changelog
-------------------------------
+minii/caching changelog
+-----------------------
 
 ## Under development
 

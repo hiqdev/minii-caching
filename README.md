@@ -3,8 +3,8 @@ minii Caching
 
 [![Latest Stable Version](https://poser.pugx.org/minii/caching/v/stable)](https://packagist.org/packages/minii/caching)
 [![Total Downloads](https://poser.pugx.org/minii/caching/downloads)](https://packagist.org/packages/minii/caching)
-[![Build Status](https://img.shields.io/travis/hiqdev/minii-caching.svg)](https://travis-ci.org/hiqdev/minii-caching)
-[![Dependency Status](https://www.versioneye.com/php/hiqdev:minii-caching/dev-master/badge.svg)](https://www.versioneye.com/php/hiqdev:minii-caching/dev-master)
+[![Build Status](https://img.shields.io/travis/.svg)](https://travis-ci.org/)
+[![Dependency Status](https://www.versioneye.com/php/minii:caching/dev-master/badge.svg)](https://www.versioneye.com/php/minii:caching/dev-master)
 
 [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
 This package provides caching.
@@ -16,13 +16,13 @@ The preferred way to install this library is through [composer](http://getcompos
 Either run
 
 ```sh
-php composer.phar require "hiqdev/minii-caching"
+php composer.phar require "minii/caching"
 ```
 
 or add
 
 ```json
-"hiqdev/minii-caching": "*"
+"minii/caching": "*"
 ```
 
 to the require section of your composer.json.
@@ -32,4 +32,4 @@ to the require section of your composer.json.
 This project is released under the terms of the BSD-3-Clause [license](LICENSE).
 Read more [here](http://choosealicense.com/licenses/bsd-3-clause).
 
-Copyright © 2015, HiQDev (http://hiqdev.com/)
+Copyright © 2015, HiQDev (http://hiqdev.com/minii)

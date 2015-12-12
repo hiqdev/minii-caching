@@ -1,5 +1,5 @@
-hiqdev/minii-caching commits history
-------------------------------------
+minii/caching commits history
+-----------------------------
 
 ## Under development
 
