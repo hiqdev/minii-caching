@@ -1,3 +1,6 @@
+github:
+    name:           hiqdev/minii-caching
+
 package:
     type:           library
     name:           caching
@@ -7,9 +10,6 @@ package:
     description:    |
         [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
         This package provides caching.
-
-composer.json:
-    name:           minii/caching
 
 require:
     minii/hidev-vendor: "*@dev"
