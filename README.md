@@ -7,7 +7,7 @@ minii Caching
 [![Dependency Status](https://www.versioneye.com/php/minii:caching/dev-master/badge.svg)](https://www.versioneye.com/php/minii:caching/dev-master)
 
 [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
-This package provides caching.
+This package provides yii\caching.
 
 ## Installation
 

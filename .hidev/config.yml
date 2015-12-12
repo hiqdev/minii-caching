@@ -9,8 +9,8 @@ package:
     keywords:       minii, caching
     description:    |
         [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
-        This package provides caching.
+        This package provides yii\caching.
 
 require:
-    minii/hidev-vendor: "*@dev"
+    minii/hidev-vendor: "*"
     hiqdev/hidev-php:   "*"
