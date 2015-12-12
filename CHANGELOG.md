@@ -3,7 +3,6 @@ minii/caching changelog
 
 ## Under development
 
-- Fixed package description
 
 ## 0.0.1 2015-11-03
 
