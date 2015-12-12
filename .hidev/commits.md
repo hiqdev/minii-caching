@@ -3,6 +3,8 @@ minii/caching commits history
 
 ## Under development
 
+- Fixed package description
+    - b1ae623 2015-12-12 rehideved with `minii/hidev-vendor` (sol@hiqdev.com)
 
 ## 0.0.1 2015-11-03
 
