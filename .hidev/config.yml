@@ -1,16 +1,17 @@
 github:
-    name:           hiqdev/minii-caching
+    full_name:      hiqdev/minii-caching
 
 package:
-    type:           library
+    type:           yii2-extension
     name:           caching
-    namespace:      yii\caching
     title:          minii Caching
     keywords:       minii, caching
+    namespace:      yii\caching
     description:    |
         [minii](https://github.com/hiqdev/minii-core) is mini version of [Yii2](http://yiiframework.com/), supposed to be fully compatible.
-        This package provides yii\caching.
+
+        This package provides `yii\caching`.
 
 require:
-    minii/hidev-vendor: "*"
     hiqdev/hidev-php:   "*"
+    minii/hidev-vendor: "*"
